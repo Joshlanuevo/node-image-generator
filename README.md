@@ -8,3 +8,5 @@ npm install
 - Build and run the project
 ```
 npm run dev
+```
+  Navigate to `http://localhost:5000`
